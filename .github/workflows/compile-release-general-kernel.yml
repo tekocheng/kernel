@@ -84,7 +84,7 @@ on:
           - -autumn-harvesting
           - -winter-storing
           - -tekocheng
-          - -dadandan
+          - -dandadan
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
